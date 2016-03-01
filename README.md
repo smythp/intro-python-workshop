@@ -7,3 +7,4 @@
 [Data types](types.py)  
 [Variables](variables.py)  
 [While loop](while-loop.py)  
+[Conditionals](conditionals.py)
