@@ -8,7 +8,7 @@
 [Variables](variables.py)  
 [While loop](while-loop.py)  
 [Conditionals](conditionals.py)
-[Defining Functions](defining-functions.py)
+[Defining Functions](functions.py)
 [User Input](input.py)
 [Review: Weather advice](weather.py)
 [Lists](lists.py)

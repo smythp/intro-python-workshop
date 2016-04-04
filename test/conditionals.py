@@ -1,4 +1,4 @@
-# Creating functions
+# Conditionals
 
 weather = "sunny"
 
