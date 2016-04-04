@@ -16,4 +16,6 @@
 [Dictionaries](dictionaries.py)  
 [Importing libraries](import_library.py)  
 
+#### Run the examples:
+
 [IPython Notebook](workshop.ipynb)
