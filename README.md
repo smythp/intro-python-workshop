@@ -15,3 +15,5 @@
 [Manipulating Lists](list-sections.py)  
 [Dictionaries](dictionaries.py)  
 [Importing libraries](import_library.py)  
+
+[IPython Notebook](workshop.ipynb)
