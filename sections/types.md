@@ -41,7 +41,7 @@ Integers are numbers without decimals, while floating point numbers are numbers 
 
 Lists are ordered collections of other objects, such as `[1, 2, 'ham', 'eggs']`, which is a list containing two integers and two strings. 
 
-There are two boolean types, `True` and `False`. They are often the result of operat compare two values. For example:
+There are two boolean types, `True` and `False`. They are often the result of operations that compare two values. For example:
 
 ```
 >>> 10 > 5

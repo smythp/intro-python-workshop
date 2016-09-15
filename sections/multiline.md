@@ -13,7 +13,7 @@ Run the program again and you should see the poem as output over four lines.
 
 ### Why use triple quotes?
 
-There are four ways to create string in Python:
+There are four ways to create strings in Python:
 
 ```
 'Hello world!'

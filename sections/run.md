@@ -41,8 +41,8 @@ then hit `Shift-Enter`. You should see the output `Hello world!` appear below.
 
 ### IDE
 
-An IDE (Integrated Development Environment) is a program that can be used for both writing and running programs, and they usually come with a number of specialized features. Python comes with its own IDE, but it only runs well on Windows and Linux, not on OSX. More powerful cross-platform IDEs for Python exist, such as [PyCharm](https://www.jetbrains.com/pycharm/) and [Spyder](https://pythonhosted.org/spyder/) will also allow you to write and run Python programs on your desktop. Check out these tutorials if you're interested in using an IDE to write and execute Python code:
+An IDE (Integrated Development Environment) is a program that can be used for both writing and running scripts, and they usually come with a number of specialized features. Python comes with its own IDE, but it only runs well on Windows and Linux, not on OSX. More powerful cross-platform IDEs for Python, such as [PyCharm](https://www.jetbrains.com/pycharm/) and [Spyder](https://pythonhosted.org/spyder/) will also allow you to write and run Python programs on your desktop. Check out these tutorials if you're interested in using an IDE to write and execute Python code:
 
-[IDLE tutorial (not recommended fo OSX)](https://www.youtube.com/watch?v=lBkcDFRA958)  
+[IDLE tutorial (not recommended for OSX)](https://www.youtube.com/watch?v=lBkcDFRA958)  
 [PyCharm Quickstart](https://www.jetbrains.com/help/pycharm/2016.1/quick-start-guide.html)  
 [Spyder tutorial](http://datasciencesource.com/python-with-spyder-tutorial/)  
