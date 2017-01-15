@@ -4,7 +4,8 @@ Python is a high-level programming language widely used in both industry and the
 
 [Getting set up](sections/installation.md)  
 [Interacting with Python](sections/repl.md)  
-[Running scripts](sections/multiline.md)  
+[Running scripts](sections/run.md)  
+[Multiline printing](sections/multiline.md)  )  
 [Types](sections/types.md)  
 [Variables](sections/variables.md)  
 [Your first script](sections/run.md)  
