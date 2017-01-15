@@ -15,20 +15,20 @@ else:
     print("I don't know what you should bring! I'm just a little program...")
 ```
 
-When you run this program, Python should ask you for some input with the prompt `What is the weather like today?` (The space before the second `"` makes the prompt look more tidy in the console.) It will then return some advice based on the input.
+When you run this program, Python should ask you for some input with the prompt `What is the weather like today?` (The space before the second `"` makes the prompt look more tidy in the console.) It will then return some advice based on the input. Try running it now.
 
 ### Asking repeatedly
 
-What if we want Python to keep asking for input instead of exiting after the first question is answered? For that, we can use somethign called a while loop.
+What if we want Python to keep asking for input instead of exiting after the first question is answered? For that, we can use something called a while loop.
 
-Remember our for loop? Instead of iterating through a list like the for loop, our while loop will continue to execute as long as a certain condition is true. Here's a very simple while loop that will run forever until you quit it manually. (Note: if you're using IPython, this may crash your notebook. It's safe to use in your terminal.)
+Remember our for loop? Instead of iterating through a list like the for loop, our while loop will continue to execute as long as a certain condition is true. Here's a very simple while loop that will run forever until you quit it manually.
 
 ```
 while True:
 	print("Oh no! I'm stuck...")
 ```
 
-If you're in the terminal, you can escape from this endless loop by pressing `Control-c` on your keyboard. In IPython, you can stop it by pressing the square `STOP` button in the toolbar.
+In the terminal, you can escape from this endless loop by pressing `Control-c` on your keyboard.
 
 Let's apply the while loop to our weather app:
 

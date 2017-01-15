@@ -19,7 +19,7 @@ Unlike the normal `$` terminal prompt, the Python prompt looks like this:
 >>>
 ```
 
-Keep an eye on this, as a common early mistake is entering terminal commands into the Python prompt and vice versa. 
+Keep an eye on this, as a common early mistake is entering terminal commands into the Python prompt or entering Python commands into the terminal.
 
 ### A Little Math
 
@@ -40,7 +40,7 @@ Let's try a little math at the Python prompt. Try this:
 
 The first four operations above are addition, subtraction, multiplication, and division, respectively. The last operation is modulo, or mod, which returns the remainder after division.
 
-Note the way you interact with Python at the prompt. After entering an expression such as `2 + 3`, Python "evaluates" it to a simpler form, `5`, and then prints out the answer for you. This process is called the Read Eval Print Loop, or REPL. Reading takes commands from you, the input is evaluated or run, the result is printed out, and the prompt is shown again to wait for more input. The terminal is another example of a REPL. 
+Note the way you interact with Python at the prompt. After entering an expression such as `2 + 3`, Python "evaluates" it to a simpler form, `5`, and then prints out the answer for you. This process is called the Read Eval Print Loop, or REPL. Reading takes commands from you, the input is evaluated or run, the result is printed out, and the prompt is shown again to wait for more input. The normal terminal (the one with the `$`) is another example of a REPL. 
 
-The REPL is useful for quick tests and, later, can be used for exploring and debugging your programs interactively. In the next section, you will learn to run Python programs that are longer than one line. 
+The REPL is useful for quick tests and, later, can be used for exploring and debugging your programs interactively.
 

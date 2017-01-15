@@ -1,10 +1,43 @@
 ## Types
 
-### What was "print"?
+Types are classifications that let the computer know how a programmer inteds to use a piece of data. We've already seen one type in the last section: the integer. In this section, we'll learn four more: the floating point number, the string, the boolean, and the list.
 
-The `print()` statement you used in the last section is an example of a function. We'll talk more about functions later, but for now you can think of them as actions that are performed on a piece of data. The `print()` function operates on the data within the parentheses by printing that data to the screen.
+Enter these lines as you see them below:
 
-Let's try out another function that will help us to learn more about the kinds of data available to us in Python:
+```
+>>> type(1)
+<class 'int'>
+>>> type(1.0)
+<class 'float'>
+>>> type("Hello there!")
+<class 'str'>
+>>> type(True)
+<class 'bool'>
+>>> type([1, 2, 3])
+<class 'list'>
+```
+
+Float: `1.0`
+
+Floats are numbers with decimals, and are treated a little differently than integers.
+
+String: `"Hello there!"`
+
+Strings are arbitrary sets of characters, such as letters and numbers. You can think of them as a way to store text.
+
+Boolean: `True` and `False`
+
+Boolean is a fancy term for values representing "true" and "false," or "truthiness" and "falsiness."
+
+List: `[1, 2, 3]`
+
+A list is an ordered collection of values. You can put any type in a list: `["rose", "daisy", "buttercup"]` is also a valid list.
+
+Don't worry about trying to remember these types. We'll be working with each in turn in the following sections.
+
+### Functions
+
+
 
 	type("I am a string!")
 
@@ -54,4 +87,16 @@ True
 False
 ```
 
-We'll be talking more about these five data types (strings, integers, floats, lists, and booleans) in the following sections.
+We'll be talking more about these five data types (strings, integers, floats, lists, and booleans) in the following sections, so don't worry about trying to remember them all now.
+
+## What's the deal with type()?
+
+`type()` is a function. You can think of functions in Python in a few different ways:
+
+1. A way of doing something in Python.
+2. A way of saving some code for reuse.
+3. A way of taking an input, transforming that input, and returning an output. The input goes in the parentheses `()`.
+
+These are all valid ways of thinking about functions. Soon we'll be doing more with functions, including making our own.
+
+

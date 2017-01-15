@@ -11,7 +11,7 @@ flowers = ['rose', 'violet', 'buttercup']
 print(flowers)
 ```
 
-Run this script using [your chosen method](run.md). You should see the list as output.
+Save this to a new file called `loop.py` and run it with `python loop.py`. You should see the list printed out in the terminal.
 
 What if we want to print out each item in the list separately? For that, we'll need something called a loop:
 
@@ -29,12 +29,7 @@ for <variable name> in <list name>:
 	<do something>
 ```
 
-Indented code like this is known as a "code block." Python will run the <do something> code in the code block once for each item in the list. The code in the code block doesn't have to refer to the variable at all:
-
-```
-for flower in flowers:
-	print("Yay! I'm in a loop!")
-```
+Indented code like this is known as a "code block." Python will run the <do something> code in the code block once for each item in the list, and you can refer to <varaible name> in the <do something> block.
 
 You can also perform more complicated operations:
 
