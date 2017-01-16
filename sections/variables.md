@@ -19,8 +19,6 @@ Try these commands in order:
 
 As you can see above, the `=` sign lets you assign symbols like `x` and `y` to data.
 
-
-
 Variables can be longer words as well:
 
 ```
@@ -32,3 +30,9 @@ Variables can be longer words as well:
 ```
 
 Variables can have letters, numbers, and underscores, but should start with a letter. 
+
+### Challenge
+
+So I just told you that variables shouldn't start with a number or an underscore. What does that even mean? Will your computer explode if you write `3_flower = "buttercup"`?
+
+Only one way to find out. Try giving weird names to variables and see if you can learn a bit about the rules.

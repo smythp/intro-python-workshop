@@ -23,7 +23,7 @@ Keep an eye on this, as a common early mistake is entering terminal commands int
 
 ### A Little Math
 
-Let's try a little math at the Python prompt. Try this:
+Let's try a little math at the Python prompt:
 
 ```
 >>> 2 + 3
