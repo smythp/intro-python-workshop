@@ -53,6 +53,8 @@ On the Stack Overflow page, take a quick look at the question to make sure it's 
 
 <br><br>
 
+Also notice the snarky debate below! Also a feature of Stack Overflow.
+
 ### Implementing our answer
 
 According to this answer, we can make a string lowercase by adding `.lower()` to the end of it, like this:
