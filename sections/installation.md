@@ -1,3 +1,5 @@
+[Next >>>](repl.md)
+
 ### Installation
 
 For these exercises, we will be using Anaconda, a version of Python that comes packaged with useful libraries for working with natural language and scientific data. 
@@ -13,3 +15,5 @@ in your terminal. If Anaconda is working, your output should look like this:
 	Python 3.5.1 :: Anaconda 2.5.0 (64-bit)
 
 Note that to get this output you may need to refresh your terminal by typing `exec $SHELL` in the prompt (including the `$`) or by closing and reopening the terminal.
+
+[Next >>>](repl.md)

@@ -1,3 +1,5 @@
+[<<< Previous](repl.md)[Next >>>](variables.md)
+
 ## Types
 
 Types are classifications that let the computer know how a programmer intends to use a piece of data. You can just think of them as, well, types of data.
@@ -50,3 +52,5 @@ Don't worry about trying to actively remember these types. We'll be working with
 These are all valid ways of thinking about functions. Soon we'll be doing more with functions, including making our own.
 
 
+
+[<<< Previous](repl.md)[Next >>>](variables.md)

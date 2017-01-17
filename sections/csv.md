@@ -1,3 +1,5 @@
+[<<< Previous](motivate.md) [Next >>>>](resources.md)
+
 ## Working with external files
 
 A common task in Python is to pull in and work with data from an external source, such as a spreadsheet or database. In this section, we'll use Python to open and read a `.csv` (plain text spreadsheet) file.
@@ -53,3 +55,5 @@ for row in entries:
 
 1. Can you figure out a way to find out how many chromolithographs are in the NYPL .csv file?
 2. Write a short program that asks the user for the ID number of an entry and returns the title. This is pretty hard, so feel free to take a peek at the [solution](ask_csv.py).
+
+[<<< Previous](motivate.md) [Next >>>>](resources.md)

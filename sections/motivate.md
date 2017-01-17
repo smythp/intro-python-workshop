@@ -1,3 +1,5 @@
+[<<< Previous](google.md) [Next >>>>](csv.md)
+
 ## A Little Motivation
 
 Early on, we learned a bit about lists, which look like this:
@@ -55,3 +57,5 @@ while True:
 ```	
 
 The empty `input()` statement at the end means that the user has to hit `Enter` again in order to see a new phrase.
+
+[<<< Previous](google.md) [Next >>>>](csv.md)

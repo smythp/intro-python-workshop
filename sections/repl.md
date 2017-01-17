@@ -1,3 +1,5 @@
+[<<< Previous](installation.md)[Next >>>](types.md)
+
 ## Interacting with Python
 
 To start an interactive session with Python, open your terminal and type
@@ -44,3 +46,4 @@ Note the way you interact with Python at the prompt. After entering an expressio
 
 The REPL is useful for quick tests and, later, can be used for exploring and debugging your programs interactively.
 
+[<<< Previous](installation.md)[Next >>>](types.md)

@@ -1,3 +1,5 @@
+[<<< Previous](input.md)[Next >>>](motivate.md)
+
 ## Finding Answers with Google
 
 Our weather app is working pretty well, but you may have noticed that it's case sensitive:
@@ -81,3 +83,5 @@ while True:
 This new script should handle any combination of upper or lowercase characters. The new second line sets the weather variable to a new value, `weather.lower()`, which is a lowercase version of the original input.
 
 There's no shame in googling for answers! Error messages are especially useful to google when you run into them. Keep an eye out for Stack Overflow answers, as they tend to have useful examples. The [official Python documentation](https://docs.python.org/3/) will also frequently come up, but I would recommend avoiding it as a resource until you have more programming experience. It's a great resource, but the way information is presented can be confusing until you get the hang of reading documentation.
+
+[<<< Previous](input.md)[Next >>>](motivate.md)

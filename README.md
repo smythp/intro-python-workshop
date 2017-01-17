@@ -11,7 +11,6 @@ Python is a high-level programming language widely used in both industry and the
 [Conditionals](sections/conditionals.md)  
 [Input](sections/input.md)  
 [Using Google](sections/google.md)  
-[Importing modules](sections/importing.md)  
 [A little motivation](sections/motivate.md)  
 [Working with files](csv.md)  
 [Python resources](sections/resources.md)  
