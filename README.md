@@ -7,7 +7,7 @@ Python is a high-level programming language widely used in both industry and the
 [Types](sections/types.md)  
 [Variables](sections/variables.md)  
 [Running scripts](sections/run.md)  
-[Loops](sections/loops.md)  
+[Lists and Loops](sections/loops.md)  
 [Conditionals](sections/conditionals.md)  
 [Input](sections/input.md)  
 [Using Google](sections/google.md)  
