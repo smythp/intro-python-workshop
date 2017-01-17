@@ -50,7 +50,7 @@ for <variable name> in <list name>:
 	<do something>
 ```
 
-Indented code like this is known as a "code block." Python will run the <do something> code in the code block once for each item in the list. You can also refer to <variable name> in the <do something> block.
+Indented code like this is known as a "code block." Python will run the <do something> code in the code block once for each item in the list. You can also refer to \<variable name> in the <do something> block.
 
 You can also perform more complicated operations:
 
