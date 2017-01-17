@@ -1,3 +1,5 @@
+[<<< Previous](loops.md) | [Next >>>](input.md)
+
 # Conditionals
 
 Conditionals allow programs to change their behavior based on whether some statement is true or false. Let's try this out by writing a script that will give different outputs based on the weather:
@@ -33,3 +35,5 @@ else:
 You can add as many `elif` statements as you need, meaning that conditionals in Python have one `if` statement, any number of `elif` statements, and one `else` statement that catches any input not covered by `if` or `elif`. Try adding more elif statements to this program to make it better able to handle different kinds of weather.
 
 Over the next sections, we'll work on improving this little application, making it able to handle user input directly.
+
+[<<< Previous](loops.md) | [Next >>>](input.md)

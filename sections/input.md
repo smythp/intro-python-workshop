@@ -1,3 +1,5 @@
+[<<< Previous](conditionals.md) | [Next >>>](google.md)
+
 ## Input
 
 Python allows you to take input directly from the user using the `input` function. Let's use it to improve our weather application by asking for the weather before displaying the output.
@@ -67,3 +69,5 @@ while True:
 ```
 
 The `break` command ends the current loop early, ending the program when "quit" is given as input.
+
+[<<< Previous](conditionals.md) | [Next >>>](google.md)

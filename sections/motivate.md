@@ -1,4 +1,4 @@
-[<<< Previous](google.md) [Next >>>>](csv.md)
+[<<< Previous](google.md) |  [Next >>>>](csv.md)
 
 ## A Little Motivation
 
@@ -58,4 +58,4 @@ while True:
 
 The empty `input()` statement at the end means that the user has to hit `Enter` again in order to see a new phrase.
 
-[<<< Previous](google.md) [Next >>>>](csv.md)
+[<<< Previous](google.md) |  [Next >>>>](csv.md)

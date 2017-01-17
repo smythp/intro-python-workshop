@@ -1,3 +1,5 @@
+[<<< Previous](types.md) | [Next >>>](run.md)
+
 ## Variables
 
 A variable is a symbol that refers to an object, such as a string, integer, or list. If you're not already at the Python prompt, open your terminal and type `python` at the `$`. You're in the right place when you see `>>>`.
@@ -36,3 +38,5 @@ Variables can have letters, numbers, and underscores, but should start with a le
 So I just told you that variables shouldn't start with a number or an underscore. What does that even mean? Will your computer explode if you write `3_flower = "buttercup"`?
 
 Only one way to find out. Try giving weird names to variables and see if you can learn a bit about the rules.
+
+[<<< Previous](types.md) | [Next >>>](run.md)

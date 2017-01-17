@@ -1,4 +1,4 @@
-[<<< Previous](repl.md)[Next >>>](variables.md)
+[<<< Previous](repl.md) | [Next >>>](variables.md)
 
 ## Types
 
@@ -53,4 +53,4 @@ These are all valid ways of thinking about functions. Soon we'll be doing more w
 
 
 
-[<<< Previous](repl.md)[Next >>>](variables.md)
+[<<< Previous](repl.md) | [Next >>>](variables.md)

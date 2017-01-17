@@ -1,4 +1,4 @@
-[<<< Previous](motivate.md) [Next >>>>](resources.md)
+[<<< Previous](motivate.md) |  [Next >>>>](resources.md)
 
 ## Working with external files
 
@@ -56,4 +56,4 @@ for row in entries:
 1. Can you figure out a way to find out how many chromolithographs are in the NYPL .csv file?
 2. Write a short program that asks the user for the ID number of an entry and returns the title. This is pretty hard, so feel free to take a peek at the [solution](ask_csv.py).
 
-[<<< Previous](motivate.md) [Next >>>>](resources.md)
+[<<< Previous](motivate.md) |  [Next >>>>](resources.md)

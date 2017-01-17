@@ -1,3 +1,5 @@
+[<<< Previous](run.md) | [Next >>>](conditionals.md)
+
 ## Lists and Loops
 
 ### Lists
@@ -60,3 +62,5 @@ for num in prime_numbers:
     print(num * num)
 ```
 
+
+[<<< Previous](run.md) | [Next >>>](conditionals.md)
