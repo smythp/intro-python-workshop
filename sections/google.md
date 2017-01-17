@@ -28,7 +28,7 @@ This is a lot of work, and it's a pretty ugly solution. If we wanted to add more
 
 Even if you're a super rad Python programmer, you're not going to remember every function name or how to do things you might not have touched in awhile. One thing programmers get very good at is googling for answers. In fact, this is arguably the most important skill in modern-day programming. So let's use Google to find out how to convert strings to lower case.
 
-Let's try the search term [`make string lower case Python`](http://lmgtfy.com/?q=make+string+lower+case+Python)`:
+Let's try the search term [`make string lower case Python`](http://lmgtfy.com/?q=make+string+lower+case+Python):
 
 <br><br>
 
