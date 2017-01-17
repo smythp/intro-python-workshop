@@ -49,7 +49,7 @@ On the Stack Overflow page, take a quick look at the question to make sure it's 
 
 <br><br>
 
-![stack overflow answer for making strings lowercase](stack_overflow.png)  
+![stack overflow answer for making strings lowercase. the answer says to use string.lower()](stack_overflow.png)  
 
 <br><br>
 
