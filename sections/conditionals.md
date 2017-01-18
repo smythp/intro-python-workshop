@@ -32,8 +32,10 @@ else:
     print("I don't know what you should bring! I'm just a little program...")
 ```
 
-You can add as many `elif` statements as you need, meaning that conditionals in Python have one `if` statement, any number of `elif` statements, and one `else` statement that catches any input not covered by `if` or `elif`. Try adding more elif statements to this program to make it better able to handle different kinds of weather.
+You can add as many `elif` statements as you need, meaning that conditionals in Python have one `if` statement, any number of `elif` statements, and one `else` statement that catches any input not covered by `if` or `elif`. Over the next sections, we'll work on improving this little application, making it able to handle user input directly.
 
-Over the next sections, we'll work on improving this little application, making it able to handle user input directly.
+## Challenge
+
+Add two more elif statements to this program to make it better able to handle different kinds of weather.
 
 [<<< Previous](loops.md) | [Next >>>](input.md)

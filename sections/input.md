@@ -2,6 +2,8 @@
 
 ## Input
 
+**Note:** If you're using Python 2.7, replace all `input()` functions in the code below with `raw_input()`. You can check your version by running `python --version` in the command line.
+
 Python allows you to take input directly from the user using the `input` function. Let's use it to improve our weather application by asking for the weather before displaying the output.
 
 ```
@@ -69,5 +71,15 @@ while True:
 ```
 
 The `break` command ends the current loop early, ending the program when "quit" is given as input.
+
+### Challenge
+
+1. How much of the code above do you understand? Even if you do kind of understand it, do you "grok" it—that is *really* understand it?
+
+Open up your REPL (type `python` at the `$` prompt). Play around with `input()` a bit until you understand it's behavior really well. Write a two-line program in the REPL or in a script that takes some input and echoes it back to the user.
+
+Alternatively, mess around with `while`. Try using things other than `True` and see if the code in the loop runs. If you can, write a while loop that prints out the numbers from 1 to 10 and stops.
+
+2. (optional) Read a little about the weird word [grok](grok.md).
 
 [<<< Previous](conditionals.md) | [Next >>>](google.md)

@@ -53,7 +53,7 @@ On the Stack Overflow page, take a quick look at the question to make sure it's 
 
 <br><br>
 
-Also notice the snarky debate below! Another feature of Stack Overflow.
+Also notice the snarky debate below! Another "feature" of Stack Overflow.
 
 ### Implementing our answer
 
@@ -86,5 +86,13 @@ while True:
 This new script should handle any combination of upper or lowercase characters. The new second line sets the weather variable to a new value, `weather.lower()`, which is a lowercase version of the original input.
 
 There's no shame in googling for answers! Error messages are especially useful to google when you run into them. Keep an eye out for Stack Overflow answers, as they tend to have useful examples. The [official Python documentation](https://docs.python.org/3/) will also frequently come up, but I would recommend avoiding it as a resource until you have more programming experience. It's a great resource, but the way information is presented can be confusing until you get the hang of reading documentation.
+
+## Challenge
+
+1. Is there something you would like to do with Python that we haven't covered yet? Do you find some language feature confusing? Take a minute now to use Google to ask a question about Python. If you can't think of something to google, look up how to append items to lists.
+
+2. (optional) OK, I told you not to look at the Python documentation. But doesn't that make you really want to go look at the Python documentation? How bad could this "documentation" really be? What terrible secrets might it hold?
+
+Fine. Have a look at the [Python documentation on built-in functions](https://docs.python.org/3/library/functions.html). Don't say I didn't warn you.
 
 [<<< Previous](input.md) | [Next >>>](motivate.md)

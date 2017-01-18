@@ -46,4 +46,10 @@ Note the way you interact with Python at the prompt. After entering an expressio
 
 The REPL is useful for quick tests and, later, can be used for exploring and debugging your programs interactively.
 
+## Challenges
+
+1. Try doing some more division with different numbers. Notice anything strange?
+
+2. For a few minutes, practice moving in and out of Python's interactive mode (also known as the REPL). You can get out of Python by hitting `Control-d` or by typing `exit()`, and you can get back in by typing `python` at the `$` prompt. Remember that you're in the REPL when you see `>>>`, and you're in bash when you see the `$`.
+
 [<<< Previous](installation.md) | [Next >>>](types.md)
