@@ -54,6 +54,7 @@ for row in entries:
 ### Challenges
 
 1. Can you figure out a way to find out how many chromolithographs are in the NYPL .csv file? Two ways to do this would be to add the items to a list and then use `len()`, or to create a variable that gets bigger as the program loops. You might want to collaborate with your tablemates on this one.
+
 2. Write a short program that asks the user for the ID number of an entry and returns the title. This is pretty hard, so feel free to take a peek at the [solution](ask_csv.py).
 
 [<<< Previous](motivate.md) |  [Next >>>>](resources.md)
