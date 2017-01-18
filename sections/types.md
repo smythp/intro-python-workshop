@@ -49,7 +49,7 @@ Don't worry about trying to actively remember these types. We'll be working with
 2. A way of saving some code for reuse.
 3. A way of taking an input, transforming that input, and returning an output. The input goes in the parentheses `()`.
 
-These are all valid ways of thinking about functions. Soon we'll be doing more with functions, including making our own.
+These are all valid ways of thinking about functions. Soon we'll be doing more with functions.
 
 
 
