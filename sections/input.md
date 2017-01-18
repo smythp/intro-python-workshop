@@ -74,7 +74,7 @@ The `break` command ends the current loop early, ending the program when "quit" 
 
 ### Challenge
 
-1\. How much of the code above do you understand? Even if you do kind of understand it, do you "grok" it—that is *really* understand it?
+1\. How much of the code above do you understand? Even if you do kind of understand it, do you "grok" it—that is, *really* understand it?
 
 Open up your REPL (type `python` at the `$` prompt). Play around with `input()` a bit until you understand it's behavior really well. Write a two-line program in the REPL or in a script that takes some input and echoes it back to the user.
 
