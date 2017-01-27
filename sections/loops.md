@@ -17,7 +17,7 @@ print(flowers)
 
 Save this to a new file called `loop.py` and run it with `python loop.py`. You should see the list printed out in the terminal.
 
-So far, we've only learned two functions: `type()`. Let's try out another:
+So far, we've only learned one function: `type()`. Let's try out another:
 
 ```
 flowers = ['rose', 'violet', 'buttercup']
