@@ -9,8 +9,8 @@ To start an interactive session with Python, open your terminal and type
 at the prompt. 	You should see something like this
 
 ```
-Python 3.5.1 |Anaconda 2.5.0 (64-bit)| (default, Dec  7 2015, 11:16:01) 
-[GCC 4.4.7 20120313 (Red Hat 4.4.7-1)] on linux
+Python 3.6.3 |Anaconda, Inc.| (default, Oct 13 2017, 12:02:49) 
+[GCC 7.2.0] on Linux
 Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 ```
@@ -21,7 +21,7 @@ Unlike the normal `$` terminal prompt, the Python prompt looks like this:
 >>>
 ```
 
-Keep an eye on this, as a common early mistake is entering terminal commands into the Python prompt or entering Python commands into the terminal.
+Keep an eye on this, as a common early source of confusion is entering terminal commands into the Python prompt or entering Python commands into the terminal.
 
 ### A Little Math
 
@@ -48,8 +48,7 @@ The REPL is useful for quick tests and, later, can be used for exploring and deb
 
 ## Challenges
 
-1. Try doing some more division with different numbers. Notice anything strange?
-
-2. For a few minutes, practice moving in and out of Python's interactive mode (also known as the REPL). You can get out of Python by hitting `Control-d` or by typing `exit()`, and you can get back in by typing `python` at the `$` prompt. Remember that you're in the REPL when you see `>>>`, and you're in bash when you see the `$`.
+1. For a few minutes, practice moving in and out of Python's interactive mode (also known as the REPL). You can get out of Python by hitting `Control-d` or by typing `exit()`, and you can get back in by typing `python` at the `$` prompt. Remember that you're in the REPL when you see `>>>`, and you're in bash when you see the `$`.
+2. One "operator" (math symbol) we didn't learn is the exponent—you know, "x raised to the power of..."  If you were Guido van Rossum, the creator of Python, how would you define this operator? Look up the exponent operator in Python on Google and see how close you were.
 
 [<<< Previous](installation.md) | [Next >>>](types.md)
