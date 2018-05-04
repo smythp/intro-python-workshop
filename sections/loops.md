@@ -1,8 +1,8 @@
 [<<< Previous](run.md) | [Next >>>](conditionals.md)
 
-## Lists and Loops
+# Lists and Loops
 
-### Lists
+## Lists
 
 Remember lists? They look like this:
 
@@ -32,7 +32,18 @@ The `len()` function returns the number of items in a list or the number of char
 
 Notice that, if you run the code above, you won't see the `flowers` list printed out. That's because that line has become a comment. If you put a `#` (hash or pound) at the beginning of a line, that line will be ignored.
 
-### Loops
+# List Indexing 
+
+A useful property of a list is the list index. This allows you to pick out an item from within the list by a number starting from zero:
+
+	print(flowers[1]) # rose
+	print(flowers[1]) # violet
+	
+You can print out the last item in a list using negative numbers:
+
+	print(flowers[-1]) # buttercup
+
+## Loops
 
 What if we want to print out each item in the list separately? For that, we'll need something called a loop:
 
@@ -54,7 +65,7 @@ Indented code like this is known as a "code block." Python will run the <do some
 
 You can also perform more complicated operations. Let's tackle one in a challenge.
 
-### Challenge
+## Challenge
 
 Here's a list of numbers:
 
@@ -64,7 +75,7 @@ prime_numbers = [2, 3, 5, 7, 11]
 
 Write some code to print out the square of each of these numbers. The solution is [here](loop.py), but you're not allowed to look at it until you've tried to solve it yourself for 3.5 minutes. Seriously. That's 210 seconds.
 
-### Advanced Challenge
+## Advanced Challenge
 
 First, ignore this challenge because it's too hard. Next, look up string formatting on Google and use it to write a loop that gives the following output:
 
